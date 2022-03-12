@@ -85,6 +85,7 @@ hs_err_pid*
 .idea/vcs.xml
 .idea/codeStyles/codeStyleConfig.xml
 .idea/codeStyles/Project.xml
+.idea/git_toolbox_prj.xml
 
 # User-specific stuff
 .idea/**/workspace.xml
